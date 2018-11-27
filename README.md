@@ -3,4 +3,4 @@
 
 This is a project used to experiment with Git and GitHub v2.0
 
-This is some important information about the project.
+This is some potentially important information about the project.
