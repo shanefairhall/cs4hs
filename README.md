@@ -1,2 +1,4 @@
 # cs4hs
-github tutorial
+## Test project
+
+This is a project used to experiment with Git and GitHub
